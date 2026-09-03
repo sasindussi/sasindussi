@@ -20,13 +20,7 @@
 * 🌍 **Travel Mate Web Site** - [Visit Live Site](https://travel-mate-web-site.vercel.app)
 * 🐆 **Leopard Eco Trails** - [Visit Live Site](https://leopard-eco-trails.vercel.app)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasindussi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>  
 
 
 <!--
