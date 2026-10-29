@@ -17,8 +17,9 @@
 
 ### 🚀 Featured Projects (Live on Vercel)
 
-* 🌍 **Travel Mate Web Site** - [Visit Live Site](https://travel-mate-web-site.vercel.app)
-* 🐆 **Leopard Eco Trails** - [Visit Live Site](https://leopard-eco-trails.vercel.app)
+*  **Travel Mate Web Site** - [Visit Live Site](https://travel-mate-web-site.vercel.app)
+*  **Leopard Eco Trails** - [Visit Live Site](https://leopard-eco-trails.vercel.app)
+*  **CoreX Solutions** - [Visit Live Site](https://core-x-solutions-khaki.vercel.app/)
 
 
 
